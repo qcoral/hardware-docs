@@ -33,11 +33,22 @@ export default defineConfig({
                     autogenerate: { directory: "shipping" },
                 },
                 {
+                    label: "Other",
+                    autogenerate: { directory: "other" },
+                },
+                {
                     label: "User Guides",
                     badge: { text: "Untested", variant: "caution" },
                     collapsed: true,
                     // Each item here is one entry in the navigation menu.
                     autogenerate: { directory: "user-contrib-guides" },
+                },
+                {
+                    label: "Program Archives",
+                    badge: { text: "Legacy", variant: "caution" },
+                    collapsed: true,
+                    // Each item here is one entry in the navigation menu.
+                    autogenerate: { directory: "program-archive" },
                 },
             ],
             customCss: ["./src/styles/global.css"],

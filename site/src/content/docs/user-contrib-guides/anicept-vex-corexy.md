@@ -25,7 +25,7 @@ But first, here's an overview about the differences between Cartesian and CoreXY
 
 A good example of a CoreXY printer is the Bambu Lab X1 series. They look like big cubes, and the Bambu line has an enclosure around the entire thing. A Cartesian printer is like an Ender 3 or a Bambu Lab A1 Mini. Cartesian printers come in two main types: bedslingers and cantilevers. An Ender 3 is a bedslinger (named because it slings the bed back and forth) and a Bambu Lab A1 Mini is a cantilever (because there is only one "pole" supporting the "arm".)
 
-![Types of 3D Printers](https://hc-cdn.hel1.your-objectstorage.com/s/v3/0a9a30a83ee4fa8f8f65564437db9f5cae7f239e_types_of_3d_printers.jpg)
+![Types of 3D Printers](https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/0a9a30a83ee4fa8f8f65564437db9f5cae7f239e_types_of_3d_printers.jpg)
 
 But back to CoreXY's. Here are the pros and cons as compared to a bedslinger or cantilever printer:
 
@@ -282,13 +282,13 @@ Designing an entire 3D printer can be extremely difficult, especially for a begi
 Wire routing can be difficult to get down, as you don't want wires getting stuck in the gantry, caught by the bed, etc. My printhead has this little chute that routes wires straight from the Klicky and the hotend to the Big Bunch Of Wires That Are Zip Tied Together (BBOWTAZTT,) which goes smoothly down to the mainboard and splits off into a rat's nest of red and black wires. It actually works quite well for a $1.50 (zip ties) solution. For a flying gantry, however, I'd recommend getting an actual wire chain.
 
 My lil chute: (printhead mounts right in front of the section analysis)  
-![chute](https://hc-cdn.hel1.your-objectstorage.com/s/v3/f82e0bb9a6d1804c3ed4815643d2e2b251dcc1fe_screen_shot_2025-06-06_at_11.13.51_am.png)
+![chute](https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/f82e0bb9a6d1804c3ed4815643d2e2b251dcc1fe_screen_shot_2025-06-06_at_11.13.51_am.png)
 
 When i tried a one-screw setup  
-![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/f98c083ec2269ffe7c159d353498b47956183ed7_screenshot_2025-02-22_143522.png)
+![img](https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/f98c083ec2269ffe7c159d353498b47956183ed7_screenshot_2025-02-22_143522.png)
 
 Big printer, small bed  
-![raa](https://hc-cdn.hel1.your-objectstorage.com/s/v3/c5beb8d4fe4e04ff0a58194a03bc22a99109f588_image.png)
+![raa](https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/c5beb8d4fe4e04ff0a58194a03bc22a99109f588_image.png)
 
 In the end, however, I'm quite proud of my own design. The printhead is really clean, and in general, it looks more professional than I'd thought it would. One thing though, my motor mounts are pretty unstable. It's not really a big deal when the motors are the ones actually turning, but when moving the belts by hand, you can tell the mounts bend a lot. So just make sure that mounts for stable parts are really really secure and can't bend anywhere.
 
@@ -306,9 +306,9 @@ Speaking of, it might be worth CNC milling an aluminum bed holder. It'll be infi
 
 This was the stage that my parents hated the most. My dad would always walk in, look around for a second or two, take it all in, and ask "are you quite done yet?" It looked like a cyclone tore through a mad scientist's lab, with parts and printer guts strewn everywhere. I filled up two big boxes (with the parts that weren't stuck under my bed or cluttering up my desk) with parts to spare. I constantly lost stuff, but it was all part of the adventure!!!1!1!!1
 
-![my room](https://hc-cdn.hel1.your-objectstorage.com/s/v3/75b8dca63f04614fd6006cddec8ff5beddf1ea86_image.png)
+![my room](https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/75b8dca63f04614fd6006cddec8ff5beddf1ea86_image.png)
 ![my room 2](https://github.com/user-attachments/assets/b75b8d23-dfe9-43da-a1b4-59925aa6190b)
-![my desk](https://hc-cdn.hel1.your-objectstorage.com/s/v3/84f6426e2366c77fe131413302d71adbf8f4091f_image.png)
+![my desk](https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/84f6426e2366c77fe131413302d71adbf8f4091f_image.png)
 
 This is the most rewarding part of the printer. Printing out the pieces, and putting them all together, it's like seeing your imagination truly turn into reality. You'll have a printer that you know inside and out, that you know every nook and cranny of. You'll have your own machine, your own design, sitting in front of you, just asking to be turned on. And it'll be fantastic.
 

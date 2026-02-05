@@ -167,7 +167,9 @@ got my hackpad parts here and noticed that the encoders were pretty cool so here
 
 I'll be using the rotary encoders that come in with the Hackpad Kit (EC11 rotary encoder from my research, don't quote me on that), along with a pair of calipers to get the measurements. If you search up the encoder you have, you can also find the dimensions there. <br/>
 
-# ok how start
+---
+title: "ok how start"
+---
 
 The encoder that comes with the kit is a D-shaft, meaning that the profile is a cylinder with a segment removed, making the profile look like a D. To get the proper dimensions, we have to measure the **diameter** of the shaft, the distance between the **chord** and the opposite side of the circle, and the **step distance** of the missing segment. <br/>
 

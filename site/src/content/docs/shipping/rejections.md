@@ -1,15 +1,15 @@
 ---
-title: "How do I \"fix\" my project?"
+title: 'How do I "fix" my project?'
 ---
 
-Most projects get rejected for the following 3 reasons:
+Most projects get returned for the following 3 reasons:
 
--   Missing project files (firmware, step, etc)
--   Incomplete CAD 3D model
--   Poor quality README
--   Bloated/Overkill parts list
--   Lack of polish
--   Fraud (submitting projects that are not yours)
+- Missing project files (firmware, step, etc)
+- Incomplete CAD 3D model
+- Poor quality README
+- Bloated/Overkill parts list
+- Lack of polish
+- Fraud (submitting projects that are not yours)
 
 This doc attempts to quickly explain what each reason means, and how/why you should fix it.
 
@@ -43,10 +43,10 @@ Fortunately, there is a solution to this! Tools like Fusion360 and Onshape allow
 
 This one is a pretty easy fix. Usually, it's because you're missing one of the following:
 
--   A description of what the project is and what it does
--   A short segment on how you would use the project
--   A short segmenet on _why_ you made the project
--   Missing images of your project/wiring diagrame/etc.
+- A description of what the project is and what it does
+- A short segment on how you would use the project
+- A short segmenet on _why_ you made the project
+- Missing images of your project/wiring diagrame/etc.
 
 It's really important you have these because it makes your project understandable - otherwise, whoever is looking at your project is going to spend a _lot_ of time trying to figure the above out!
 
@@ -62,9 +62,9 @@ If, for example, you instead designed your own ESCs, transmitters, etc, $300 wou
 
 Another example is getting extra parts / things that are just not needed:
 
--   An entire spool of filament for a 100g print
--   An extra MCU "just in case"
--   ENIG PCBs
+- An entire spool of filament for a 100g print
+- An extra MCU "just in case"
+- ENIG PCBs
 
 The last example is just poor part sourcing. This means getting an arduino for $35, a stepper motor for $20, etc. This usualy just means you need to buy from better suppliers! This one's an easy fix, check out the sourcing guide at highway.hackclub.com
 
@@ -88,21 +88,21 @@ Let's take a look at orpheuspad, the example macropad I made for hackpad - it's 
 
 Here's what it looked like as a purely functional prototype:
 
-<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/600c5d170ef8341a36e90ad14c53245d383afd15_image.png" width="400"/>
+<img src="https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/600c5d170ef8341a36e90ad14c53245d383afd15_image.png" width="400"/>
 
 Looks decent, but could be _way_ better. Here's what it looks like after I polished it a ton!
 
-<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/a00982621f8f94532ac8d508a83f39504c0a2b4c_image.png" width="400"/>
+<img src="https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/a00982621f8f94532ac8d508a83f39504c0a2b4c_image.png" width="400"/>
 
 Notice the details? I added the following:
 
--   Embossed riangle pattern in the middle
--   5 degree tilt at the bottom
--   Rounded corners
--   Chamfers across the entire case
--   Embossed Hack Club "h" logo in the top right
--   First layer colour change
--   Different heights on the acrylic
+- Embossed riangle pattern in the middle
+- 5 degree tilt at the bottom
+- Rounded corners
+- Chamfers across the entire case
+- Embossed Hack Club "h" logo in the top right
+- First layer colour change
+- Different heights on the acrylic
 
 There's more, but what I want you to notice is how _none_ of those changes are functional, yet they made the project way better & cooler. I turned orpheuspad from a plain rectangular block, to a sharp, tech-themed desk gadget.
 
@@ -116,7 +116,7 @@ A very important thing to remember is that making hardware projects is usually m
 
 The following is classified as design fraud:
 
--   Following tutorials almost exactly 1:1
--   Submitting projects designed by other people as your own
+- Following tutorials almost exactly 1:1
+- Submitting projects designed by other people as your own
 
-Any convicted fraud will result in a permanent ban from Highway, and will affect your eligibility in future hardware YSWS programs. _do not commit fraud_
+Any convicted fraud will result in a permanent ban from hardware programs. _do not commit fraud_

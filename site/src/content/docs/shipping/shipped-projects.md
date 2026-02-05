@@ -1,5 +1,6 @@
 ---
 title: "What is a shipped project?"
+draft: true
 ---
 
 Simply put, a shipped hardware project is one that can be easily used & understood by others. It should have the following things:
