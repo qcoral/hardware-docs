@@ -1,5 +1,5 @@
 ---
-title: "Jukebox"
+title: "@dld - Jukebox"
 ---
 
 Written by [danieliscrazy](https://github.com/danieliscrazy/Jukebox) (@dld on Slack)

@@ -1,2 +1,3 @@
-# hardware-docs
-Hardware documentation! Migration from highway dmv
+# Hardware docs
+
+A collection of resources, tips, guides, etc
