@@ -1,5 +1,6 @@
 ---
 title: "What is shipping?"
+priority: 1
 ---
 
 _note to reader: this was originally written in a google doc in April 2025_

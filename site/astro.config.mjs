@@ -43,7 +43,11 @@ export default defineConfig({
                 //     autogenerate: { directory: "overview" },
                 // },
                 {
-                    label: "Design tips",
+                    label: "Overview",
+                    link: "/",
+                },
+                {
+                    label: "Design resources",
                     autogenerate: { directory: "design" },
                 },
                 {
