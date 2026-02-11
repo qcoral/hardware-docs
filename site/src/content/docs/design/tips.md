@@ -1,5 +1,5 @@
 ---
-title: "Designing for real life building"
+title: "Design tips"
 ---
 
 There's a lot of stuff you need to watch out for when designing your project on the computer to make sure that you can actually build them in real life! Here are some of them:
