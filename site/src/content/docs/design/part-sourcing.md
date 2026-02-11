@@ -13,7 +13,7 @@ When picking parts, PLEASE be resourceful! Make the most out of every dollar and
 #### Do's
 
 - Lots of research into what parts to use!
-- Ask in #highway for advice on picking parts
+- Ask in slack for advice on picking parts
 
 #### Don'ts
 
@@ -27,7 +27,7 @@ At the end, everything should be in a BOM with links to specific parts.
 
 ### General
 
-Generally speaking, try to reference parts off of other projects since you'll eliminate more unknowns with the hardware. Adafruit projects
+Generally speaking, try to reference parts off of other projects since you'll eliminate more unknowns with the hardware. Adafruit projects are a great source for this!
 
 ### Modules (TP4056, LED matrices, etc)
 
