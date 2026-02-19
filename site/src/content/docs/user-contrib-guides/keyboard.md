@@ -1,5 +1,6 @@
 ---
 title: "Keyboard"
+draft: true
 ---
 
 #### Tier 2 project (6 points)

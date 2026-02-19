@@ -2,4 +2,6 @@
 title: "Journaling your progress"
 ---
 
-check the example journal for now
+This will be a page on some journaling advice, but it's currently incomplete.
+
+Check out the [Example Journal Entry](/shipping/example-journal/) for now!

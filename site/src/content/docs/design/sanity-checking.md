@@ -1,5 +1,6 @@
 ---
 title: "Sanity checking your design"
+draft: true
 ---
 
 Sanity checking your design is super important. Here are some things you can do:

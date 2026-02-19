@@ -1,5 +1,6 @@
 ---
 title: "Game console"
+draft: true
 ---
 
 #### Tier 2 project (6 points)
@@ -14,14 +15,14 @@ This is going to be a more informal document, meant to give you an idea of how e
 
 This is a game console that uses the following:
 
--   Retropie firmware for emulation
--   GPIONext for input
--   Raspberry Pi Zero 2W
--   MAX98357A module
--   ILI9341 320x240 display
--   8ohm 2W speaker
--   6mm tactile pushbuttons
--   A 3D printed case
+- Retropie firmware for emulation
+- GPIONext for input
+- Raspberry Pi Zero 2W
+- MAX98357A module
+- ILI9341 320x240 display
+- 8ohm 2W speaker
+- 6mm tactile pushbuttons
+- A 3D printed case
 
 It's heavily based on the [Pi-Tin Project](https://github.com/jackw01/pi-tin/) by Alley Cat engineering, but dramatically simplifies the process.
 
@@ -39,9 +40,9 @@ Realizing the project actually had to launch though, I settled on a barebones de
 
 Ultimately, this meant I needed the following features/had the following design constraints:
 
--   10 buttons, Up/Down/Left/Right, Start/Select, A/B/X/Y
--   Small enough to hold in hand
--   I/O must be exposed so that it can be plugged into a power supply to actually play.
+- 10 buttons, Up/Down/Left/Right, Start/Select, A/B/X/Y
+- Small enough to hold in hand
+- I/O must be exposed so that it can be plugged into a power supply to actually play.
 
 I opted not to deal with any battery stuff to cut down on costs & give it more of a retro feel
 
@@ -49,17 +50,17 @@ I opted not to deal with any battery stuff to cut down on costs & give it more o
 
 The next step was to pick out the electronic components - this actually was not easy! First, I needed to figure out what featured I needed:
 
--   It had to actually run (needed an SBC like an rpi)
--   It had to play audio (needed an audio amp)
--   Needed some inputs (buttons)??
--   Needed _some_ sort of screen (LCD?? OLED??)
+- It had to actually run (needed an SBC like an rpi)
+- It had to play audio (needed an audio amp)
+- Needed some inputs (buttons)??
+- Needed _some_ sort of screen (LCD?? OLED??)
 
 Will write more but the tl;dr is:
 
--   Picked an RPi Zero 2W cause I had it on-hand
--   Picked a MAX98375A module because theyre readily available and are well documented
--   Picked 6mm buttons cause they're small & readily available
--   Picked an ILI9341 because the lower resolution of the ST7735 was way too small to play anything past NES games
+- Picked an RPi Zero 2W cause I had it on-hand
+- Picked a MAX98375A module because theyre readily available and are well documented
+- Picked 6mm buttons cause they're small & readily available
+- Picked an ILI9341 because the lower resolution of the ST7735 was way too small to play anything past NES games
 
 ## 3. Firmware & software setup
 
