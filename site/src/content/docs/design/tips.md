@@ -2,18 +2,18 @@
 title: "Design tips"
 ---
 
-## General
+## General tips
 
-General / uncategorized tips!
-
-- Round the corners on your PCBs! Not only do they make your PCBs look better, they also help you avoid getting cut by them!
+- Round the corners on your PCBs! Not only do they make your PCBs look better, they also help you avoid getting cut by them! See example:
 
 | Rounded corners                                                                                                                                                   | Unounded corners                                                                                                                                                |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <img src="https://cdn.hackclub.com/019c6d97-18f2-72fa-b7ee-22e6db8c282e/image.png" alt="Unrounded corners" style="max-height: 35vh; width: auto; height: auto" /> | <img src="https://cdn.hackclub.com/019c6d98-dc58-7ecf-b45a-8c166a1c9a0f/image.png" alt="Rounded corners" style="max-height: 35vh; width: auto; height: auto" /> |
 
 - Instead of taking a screenshot of the default onshape blue or fusion360 gray, render your project in [blender](https://www.blender.org/) instead!
-- If you're stuck picking between a bunch of passives that are all functionally the same (i.e 30 different types of capacitors), start with the CAD and work backwards - it'll help you get an idea of which one would physically look the best.
+- If you're stuck picking between a bunch of passives that are all functionally the same (i.e 30 different types of capacitors), start with the CAD and work backwards - it'll help you get an idea of which one would physically look the best, which narrows down your choices
+
+---
 
 ## Designing for real life
 

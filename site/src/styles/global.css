@@ -5,6 +5,7 @@
 @import "tailwindcss/utilities.css" layer(utilities);
 
 /* Dark mode colors. */
+/* Dark mode colors. */
 :root {
     --sl-color-accent-low: #36113e;
     --sl-color-accent: #a400c0;
@@ -21,7 +22,7 @@
 /* Light mode colors. */
 :root[data-theme="light"] {
     --sl-color-accent-low: #ebc9f3;
-    --sl-color-accent: #8b00a3;
+    --sl-color-accent: #c00070;
     --sl-color-accent-high: #4e0e5b;
     --sl-color-white: #1c1425;
     --sl-color-gray-1: #2f1c42;
@@ -31,8 +32,9 @@
     --sl-color-gray-5: #c7bdd5;
     --sl-color-gray-6: #f2e9fd;
     --sl-color-gray-7: #f8f4fe;
-    --sl-color-black: #ffff;
+    --sl-color-black: #ffffff;
 }
+
 @theme {
     /*
 	Configure your Tailwind theme that will be used by Starlight.
@@ -44,3 +46,11 @@
 Add additional Tailwind styles to this file:
 https://tailwindcss.com/docs/adding-custom-styles#using-custom-css
 */
+
+.sl-markdown-content hr {
+    @apply [border-width:3px] -mb-6 my-10;
+}
+
+.sl-markdown-content a {
+    @apply font-bold no-underline;
+}

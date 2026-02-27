@@ -20,4 +20,4 @@ To make it as easy as possible to ask for help, **you should include the followi
 
 ## Other communities
 
-Hack Club is a _great_ place, but the the truth is that we're really small too! One of the best ways to learn is to immerse yourself in other communities. Here are some other great places to ask for help:
+Hack Club is a _great_ place, but the the truth is that we're really small too! One of the best ways to learn is to immerse yourself in other communities. Go to the [communities section](/design#communities) to find a list!
