@@ -86,6 +86,19 @@ export default defineConfig({
       ],
       customCss: ["./src/styles/global.css"],
       favicon: "/icon-blue-purple.png",
+      head: [
+        {
+          tag: "script",
+          attrs: {
+            async: true,
+            src: "https://plausible.io/js/pa-_MbWFkTJ9I6nJ4sBKVTcX.js",
+          },
+        },
+        {
+          tag: "script",
+          content: `window.plausible=window.plausible||function(){(plausible.q=plausible.q||[]).push(arguments)},plausible.init=plausible.init||function(i){plausible.o=i||{}};plausible.init()`,
+        },
+      ],
     }),
   ],
   vite: {
