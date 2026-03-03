@@ -48,7 +48,7 @@ https://tailwindcss.com/docs/adding-custom-styles#using-custom-css
 */
 
 .sl-markdown-content hr {
-    @apply [border-width:3px] -mb-6 my-10;
+    @apply [border-width:3px] -my-4 my-10;
 }
 
 .sl-markdown-content a {

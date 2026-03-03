@@ -13,7 +13,7 @@ Before you actually order your parts, you should sanity check your design first!
     - your schematic has everything wired up correctly
     - DRC has no errors
     - You set tolerances on all parts
-    - Your parts are all within speci
+    - Your parts are all within spec
 
 ## Actually ordering
 

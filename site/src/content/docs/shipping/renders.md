@@ -14,6 +14,7 @@ Or even this!
 
 (ok that last one was overkill - but totally doable!)
 
-There's ton of different resources
+Some resources:
 
-- Fusion360 has a built-in renderer. It's not the most oco
+- Fusion360 has a built-in renderer! It's not particularly detailed or realistic but it's very fast to set up
+- [pcb2kicad](https://github.com/30350n/pcb2blender) allows you to quickly create models with photorealistic textures for blender renders - just set up a lightroom after!

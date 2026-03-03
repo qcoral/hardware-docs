@@ -3,6 +3,12 @@ title: "Designing your own projects"
 draft: true
 ---
 
+# AUTHORS NOTE:
+
+I think this part should be covered by the core program flow instead in the scope of Hack Club work. I would love to finish this someday for the wider community but I don't think it currently makes sense to do it that way.
+
+---
+
 Designing your own projects is really, _really_ hard. Here's my best explainer at what the process sort of looks like, but every person's process is different! You'll have to figure a lot of this stuff out on your own.
 
 ## Overview

@@ -46,9 +46,10 @@ The most useful thing you can get from this though is to get into the habbit of 
 These are the measurements I use to design parts for 3D prints!
 
 - M3 screw head diamter: 6mm (this is both for socket head and button head - they're approx. the same!)
-- M3 heatset inserts: 4.7mm OD
+- M3 heatset inserts: 4.7mm OD, 4mm depth
 - M3 screw-ins for plastic: 2.9mm
 - M2 screw-ins for plastic: 1.9mm
-- M3 SHCS screw head depth:
+- M3 SHCS screw head depth: 3.1mm
+- M3 BHCS screw head depth: 1.8mm
 
-Most of these were taken from the VORONDesign team's designs - I've found them to just generally work pretty well
+Most of these were taken from the VORONDesign team's designs - I've found them to just generally work pretty well across other designs as well

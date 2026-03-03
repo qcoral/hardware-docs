@@ -12,6 +12,7 @@ title: "Design tips"
 
 - Instead of taking a screenshot of the default onshape blue or fusion360 gray, render your project in [blender](https://www.blender.org/) instead!
 - If you're stuck picking between a bunch of passives that are all functionally the same (i.e 30 different types of capacitors), start with the CAD and work backwards - it'll help you get an idea of which one would physically look the best, which narrows down your choices
+- Use variables in Fusion! They allow you to calculate measurements as functions of other ones which saves you a lot of time on iteration
 
 ---
 
