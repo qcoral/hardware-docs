@@ -1,7 +1,9 @@
-# Markdown Files
-
-Written by: @Taran The Idiot
 ---
+title: "Markdown Files"
+---
+
+#### Written by: @Taran The Idiot
+
 
 Hello! Here I will be teaching you how to write nice looking Readmes and Journals and how to use .md files.\
 This is different from the How To Ship tutorial in that this shows you how to write in markdowns whereas the other one teaches you how to properly ship your project.
@@ -81,7 +83,7 @@ Lists are useful for things like BOMs, checklists, etc
 3. where x is the number
 ```
 1. It looks like this when you do it
-2. numbered lists are nice for outlining steps and other uses.
+2. numbered lists are nice for outlining steps and any other ordered list.
 
 
 #### Check Lists
@@ -195,13 +197,14 @@ You have seen throughout this guide where I add the raw code and the places I pu
 How do I do this?\
 Through codeblocks.
 
-To use a code block, put `s on either end of the line.\
+To use a code block, put ` on either end of the line.\
+
 Like so:
-```
+~~~
 `hi`
-You can find this above the tab button
+~~~
+`You can find this above the tab button`
 It is not an apostrophe
-```
 
 To add a big block of code that takes up multiple lines like above, use ``` on the line above and line below\
 Like so:
@@ -227,7 +230,6 @@ To add a quote, use > in front of the line with a space.\
 
 Good for quoting texts, paste statements, code and whatever else you want to do with it.
 
-That should be everything you need to know about markdowns.\
-If you feel I have missed something or want to add something yourself, dm `@Taran The Idiot` on slack or make a pr to add it.
-
-If I see more bad readmes after this, I will find you.
+That should be everything you **need** to know about markdowns.\
+There are still heaps of cool things that you can do that I didnt mention, but you should go out towards the internet and try to learn it yourself :)\
+If you feel I have missed something, dm `@Taran The Idiot` on slack or make a pr to add it.
