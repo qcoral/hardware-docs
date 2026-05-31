@@ -19,7 +19,7 @@ export default defineConfig({
     },
     integrations: [
         starlight({
-            title: "hardware!",
+            title: "Hardware Codex",
             social: [
                 {
                     icon: "github",

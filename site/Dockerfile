@@ -21,6 +21,10 @@ FROM nginx:alpine AS serve
 # Custom nginx config: directory-style clean URLs + custom 404
 COPY nginx.conf /etc/nginx/conf.d/default.conf
 
+# Minimize AIO footprint: a static site needs neither many workers nor async I/O.
+# Avoids "io_setup() failed (11)" when the host's fs.aio-max-nr is under pressure.
+RUN sed -i 's/worker_processes\s*auto;/worker_processes 1;/' /etc/nginx/nginx.conf
+
 COPY --from=build /app/dist /usr/share/nginx/html
 
 EXPOSE 80
