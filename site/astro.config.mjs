@@ -85,7 +85,7 @@ export default defineConfig({
                 },
             ],
             customCss: ["./src/styles/global.css"],
-            favicon: "/icon-blue-purple.png",
+            favicon: "/icon-green-wood.png",
             head: [
                 {
                     tag: "script",
