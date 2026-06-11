@@ -4,8 +4,6 @@ title: "Shipped project examples!"
 
 In no particular order!
 
-Think your project should be here? Submit [here] (FORM NOT AVAIL)
-
 ## Hack Clubber projects
 
 - @Ducc's [Spotify Display](https://github.com/Dongathan-Jong/SpotifyDisplay/), a Spotify Car Thing Clone
