@@ -6,6 +6,10 @@ Here's a general list of resources & links that may be useful to you!
 
 The most useful thing you can get from this though is to get into the habbit of searching stuff up! There are _so_ many resources out there and this page can only cover so much
 
+### Project inspiration:
+
+- [Adafruit](https://learn.adafruit.com/guides/latest) is one of my favourite resources! There are literally hundreds of insanely cool projects out there.
+
 ### Finding 3D models & libraries
 
 - [GrabCAD community library](https://grabcad.com/library) (this has LITERALLY any 3D model you can think of)
@@ -13,7 +17,7 @@ The most useful thing you can get from this though is to get into the habbit of 
 
 ### Useful software
 
-- [Excalidraw](https://excalidraw.com/) is an awesome site for making really quick sketches that look good
+- [Excalidraw](https://excalidraw.com/) is an awesome site for making really quick sketches that look good!
 - For PCB design, use [KiCAD!](https://www.kicad.org/). It's free, open source, and works on any platform.
 - For 3D modelling, use either Fusion360 or Onshape!
 
@@ -21,10 +25,6 @@ The most useful thing you can get from this though is to get into the habbit of 
 
 - [Ellis' 3D print tuning guide](https://ellis3dp.com/Print-Tuning-Guide/) has swaths of really useful information
 - [The Keyboard Atelier Designer Spreadsheet](https://docs.google.com/spreadsheets/d/1K0jNUZzxTTMkgzo043dxc4vBEOrxNa8jVf4VHk-B27U/edit?gid=0#gid=0)
-
-### Project inspiration:
-
-- [Adafruit](https://learn.adafruit.com/guides/latest) is one of my favourite resources! There are literally hundreds of insanely cool projects out there.
 
 ### Communities
 
