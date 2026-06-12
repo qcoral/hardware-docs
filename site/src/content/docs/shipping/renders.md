@@ -1,5 +1,6 @@
 ---
 title: "3D renders"
+draft: true
 ---
 
 3D renders are awesome! They're pretty simple to make. They can take your project from looking like this:
@@ -11,8 +12,6 @@ To this!
 Or even this!
 
 (Blender photorealistic render)
-
-(ok that last one was overkill - but totally doable!)
 
 Some resources:
 

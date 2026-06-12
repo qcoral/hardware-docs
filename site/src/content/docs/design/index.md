@@ -9,11 +9,12 @@ The most useful thing you can get from this though is to get into the habbit of 
 ### Project inspiration:
 
 - [Adafruit](https://learn.adafruit.com/guides/latest) is one of my favourite resources! There are literally hundreds of insanely cool projects out there.
+- [Hackaday](https://hackaday.com) posts daily articles on cool hardware hacking things going on! While you may not find as many full projects, it may give you inspo to hack around with!
 
 ### Finding 3D models & libraries
 
 - [GrabCAD community library](https://grabcad.com/library) (this has LITERALLY any 3D model you can think of)
-- [SnapEDA](https://www.snapeda.com/) has footprints & symbols for most electronics components if you can't find one online, but I would recommend making your own when possible
+- [SnapEDA](https://www.snapeda.com/) has footprints & symbols for most electronics components if you can't find one online, but I would recommend making your own when possible; it's not super hard!
 
 ### Useful software
 
