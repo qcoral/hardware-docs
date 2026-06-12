@@ -78,6 +78,8 @@ Arduinos are fairly outdated by todays standards
 - Most vendors do not take international cards [cards issued outside India], which unfortunately, HCB falls into the category of. Contact your local vendors to try to get that changed!
 - Here are some vendors that are documented to work with HCB cards currently, segregated into categories
     - Electronic parts (RPIs, modules, power supplies and the like)
+        - [Robu](https://robu.in/)
+        - [Robocraze](https://robocraze.com/)
         - [Silverline Electronics](https://www.silverlineelectronics.in/)
         - [RoboSap](https://robosap.in/)
         - [RoboticsDNA](https://roboticsdna.in/)
@@ -87,7 +89,8 @@ Arduinos are fairly outdated by todays standards
         - [Novo3D](https://novo3d.in/)
     - 3D printed parts (3D printing as a Service, JLC3DP-alike)
         - [3Ding](https://www.3ding.in/)
-        -
+    - Screws, Inserts and Magnets
+        - [OnlyScrews](https://onlyscrews.in/): During payment, use the last option, "Other payment methods." You will receive a Razorpay link, which accepts HCB cards. Do not pay directly using the Cards option on the first payment page, because it does not accept HCB cards.
 
 > confirmed more vendors? wanna add specific notes for your country? contribute [here](https://github.com/hackclub/highway/edit/main/app/views/advanced/part-sourcing.md)!! You'd be helping a ton of people!
 
