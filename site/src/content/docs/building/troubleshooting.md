@@ -6,7 +6,8 @@ You're going to run into a LOT of issues while working on your project! That's o
 
 ## General tips
 
-- Before trying anything else, SEARCH. IT. UP. Google whatever issue you might have going on. Chances are someone else has run into something similar
+- Before trying anything else, SEARCH. IT. UP. Google whatever issue you might have going on. Chances are someone else has run into something similar!
+- Try to write down what steps you've taken before. Not only is it useful to pinpoint the problem for yourself, but it makes it easier for others too if you need external help
 
 ## Asking for help
 
