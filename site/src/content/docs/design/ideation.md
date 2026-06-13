@@ -1,5 +1,6 @@
 ---
 title: "Project Ideas/Inspo"
+draft: true
 ---
 
 Here's some inspo for your next project! Please do not copy them.

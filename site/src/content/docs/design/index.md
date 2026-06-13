@@ -29,11 +29,13 @@ The most useful thing you can get from this though is to get into the habbit of 
 
 ### Communities
 
+First and foremost, if you are a teenager, make sure you are in the [Hack Club Slack](https://slack.hackclub.com)! It's where the comms for any Hack Club events take place and you can get free things
+
 #### Discords:
 
 - [KiCAD](https://www.kicad.org/community/chat/) (PCB design and help)
 - [QMK](https://discord.com/invite/qmk) (Keyboard firmware)
-- [VORONDesign](https://discord.com/invite/voron) - 3D printing discord dedicated to their ow
+- [VORONDesign](https://discord.com/invite/voron) - 3D printing discord dedicated to their own designs, but you'll pick up on a lot of things just by scrolling
 
 #### Subreddits:
 
