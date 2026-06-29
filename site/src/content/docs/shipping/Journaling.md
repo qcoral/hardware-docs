@@ -1,5 +1,7 @@
 ---
 title: "Journaling your progress"
+sidebar:
+    order: 3
 ---
 
 Journaling! You've probably seen this term thrown around here and there. What is it?

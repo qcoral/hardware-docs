@@ -1,15 +1,18 @@
 ---
 title: "What is shipping?"
-priority: 1
+sidebar:
+    order: 1
 ---
 
 _note to reader: this was originally written in a google doc in April 2025_
 
-Hi there! This page is my best attempt at explaining the age old question of, _"what on earth is shipping??"_
+Hi there! This page is my best attempt at explaining the age old question of, _"what on earth is shipping?"_
 
 In short, **shipping is process of actually making your project sharable**. It's _the_ most important part of your project, almost as important as the entire project itself
 
-When you first make something, usually it just lives as a file on your computer. This is bad because only YOU can access it\! Nobody else can see it. Not only that, but when you look back at the project a few years from now it’ll be very, _very_ difficult to remember anything about it\! _It’s not real_
+When you first make something, usually it just lives as a file on your computer. This is bad because only YOU can access it\! Nobody else can see it.
+
+Not only that, but when you look back at the project a few years from now it’ll be very, _very_ difficult to remember anything about it\! _It’s not real_
 
 Shipping (at least in this context context) involves publishing your design out there for the world to see. Making it very real. This involves a couple steps:
 
