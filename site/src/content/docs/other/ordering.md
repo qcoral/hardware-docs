@@ -15,6 +15,13 @@ Before you actually order your parts, you should sanity check your design first!
     - You set tolerances on all parts
     - Your parts are all within spec
 
+## Tooling
+
+Make sure you know what tools you'll need! It'll make working on your project go so much smoother. Here's some general tips I've noticed:
+
+- You only need a hotplate if you are SMD soldering smaller components! You don't need one for through-hole projects like hackpad
+- You may need wire cutters! They're super cheap and work a lot better than scissors (note: hack club will not fund this!)
+
 ## Actually ordering
 
 - do your research on the different manufacturing options for the services you use - this mainly applies to PCBs but it's really important you actually understand what you're getting

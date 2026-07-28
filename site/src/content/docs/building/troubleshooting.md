@@ -1,5 +1,5 @@
 ---
-title: "Troubleshooting"
+title: "Troubleshooting 101"
 ---
 
 You're going to run into a LOT of issues while working on your project! That's okay - here's some general troubleshooting tips!
@@ -13,11 +13,11 @@ You're going to run into a LOT of issues while working on your project! That's o
 
 Sometimes a quick search will give you absolutely nothing, and you'll be stuck! Not to worry - that's what the community is here for!
 
-To make it as easy as possible to ask for help, **you should include the following:**
+To make it as easy as possible to ask for help, **you should include the following in any question you ask:**
 
 - Context as to what you're building & what you're trying to do
 - Screenshots/pictures of your problem
-- A link to your GitHub repository
+- Any relevant link(s), including your project's GitHub repository!
 
 ## Other communities
 

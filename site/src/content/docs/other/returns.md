@@ -2,7 +2,7 @@
 title: 'How do I "fix" my project?'
 ---
 
-Most projects get returned for the following 3 reasons:
+In a lot of Hack Club hardware programs, most projects get returned for the following reasons:
 
 - Missing project files (firmware, step, etc)
 - Incomplete CAD 3D model
@@ -11,9 +11,9 @@ Most projects get returned for the following 3 reasons:
 - Lack of polish
 - Fraud (submitting projects that are not yours)
 
-This doc attempts to quickly explain what each reason means, and how/why you should fix it.
+This doc attempts to quickly explain what each reason means, and how/why you should fix it!
 
-**The goal of the reject/approve system is to help you make real, shipped projects - these are not arbritrary metrics, even if it feels like that sometimes!**
+**The goal of these systems is to help you make real, shipped projects - these are not arbritrary bars to clear, even if it feels like that sometimes!**
 
 ## Missing project files
 
@@ -35,7 +35,7 @@ Adding all the electronics & components is really, _really_ important. Not only 
 
 Unlike software, errors in hardware can be very expensive - not just in money, but also _time_. One wrong part can set you back multiple weeks. You _really_ want to avoid that.
 
-Fortunately, there is a solution to this! Tools like Fusion360 and Onshape allow you to create 1:1 models of your designs vs real life. That means that as long as everything matches up in your 3D model, everything will match in real life too!\*
+Fortunately, there is a solution to this! Tools like Fusion360 and Onshape allow you to create 1:1 models of your designs vs real life. That means that as long as everything matches up in your 3D model, everything will match in real life too!
 
 _granted, this does have some limitations - CAD software has trouble accounting for IRL properties (3D printing inaccuracies, thermal expansion, etc) that need to be accounted for - check out [designing for reality](/design/design-tips/#designing-for-real-life) to learn how to fix this!_
 

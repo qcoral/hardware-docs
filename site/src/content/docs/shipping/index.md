@@ -4,9 +4,9 @@ sidebar:
     order: 1
 ---
 
-_note to reader: this was originally written in a google doc in April 2025_
+Shipping! You've probably seen this term thrown around a good amount. What does it mean? How do I ship my project?
 
-Hi there! This page is my best attempt at explaining the age old question of, _"what on earth is shipping?"_
+Effecit
 
 In short, **shipping is process of actually making your project sharable**. It's _the_ most important part of your project, almost as important as the entire project itself
 
@@ -26,25 +26,27 @@ Shipping (at least in this context context) involves publishing your design out 
 
 ---
 
-**Here are some great examples of shipped projects**. Notice how the files are organized using folders, and, more importantly, it’s well documented what the project is about and what you can do with it!
+## Examples
+
+Here are some great examples of shipped projects! Notice how the files are organized using folders, and, more importantly, it’s well documented what the project is about and what you can do with it!
+
+_Fun fact: some of these were made by other Hack Clubbers!_
 
 **Keyboards & Macropads:**
 
-- [Seigaiha Keyboard](https://github.com/yiancar/Seigaiha)
-- [Ducky Pad](https://github.com/dekuNukem/duckyPad)
+- [The biblically accurate keyboard](https://github.com/geg-tech/biblicallyaccuratekeyboard)
+- [CYBERPAD-01](https://github.com/KaiPereira/CYBERPAD-01)
 
 **3D printers:**
 
-- [Voron 0](https://github.com/VoronDesign/Voron-0)
-- [Annex K3](https://github.com/Annex-Engineering/Gasherbrum-K3)
+- [Breaky Belt](https://github.com/WilliamPrime/breaky-belt)
+- [The VORON 0](https://github.com/VoronDesign/Voron-0) (non hack club)
 
 **Misc projects:**
 
-- [PiGRRL](https://github.com/adafruit/Adafruit-PiGRRL-PCB) Game console
-- [Nevermore filters](https://github.com/nevermore3d/Nevermore_Micro) (I’ll admit \- this one is a little excessive)
+- [AngstromIO](https://github.com/Dieu-de-l-elec/AngstromIO-devboard)
+- [PiGRRL](https://github.com/adafruit/Adafruit-PiGRRL-PCB) Game console (non hack club)
 
-**When you make your repository nothing but a dump of files and 2 sentences for a README**, what happens is that it’s hard for other people to recognize your work, nor does it make it easy to learn from. _It’s not real_. It only lives on in your tiny corner of this earth.
+When you make your repository nothing but a dump of files and 2 sentences for a README, what happens is that it’s hard for other people to recognize your work, nor does it make it easy to learn from. _It’s not real_. It only lives on in your tiny corner of this earth.
 
 ---
-
-_Unfortunately we also can't accept non shipped projects since it'd be impossible to tell what you even made. Make sure to ship your projects!_
