@@ -20,18 +20,12 @@ The most useful thing you can get from this though is to get into the habbit of 
 
 - [Excalidraw](https://excalidraw.com/) is an awesome site for making really quick sketches that look good!
 - For PCB design, use [KiCAD!](https://www.kicad.org/). It's free, open source, and works on any platform.
-- For 3D modelling, use either Fusion360 or Onshape! _(If you want to go with OSS, you should try FreeCAD)_
+- For 3D modelling, use either Fusion360 or Onshape!
 
 ### Technical resources
 
 - [Ellis' 3D print tuning guide](https://ellis3dp.com/Print-Tuning-Guide/) has swaths of really useful information
 - [The Keyboard Atelier Designer Spreadsheet](https://docs.google.com/spreadsheets/d/1K0jNUZzxTTMkgzo043dxc4vBEOrxNa8jVf4VHk-B27U/edit?gid=0#gid=0)
-- [Ricky Hartley: How to Achieve Proper Grounding](https://www.youtube.com/live/ySuUZEjARPY) an excellent video going into how electricity flows inside PCBs and how to create robust PCBs with great signal integrity
-- [Ricky Hartley: Differential Pairs](https://youtu.be/QG0Apol-oj0) goes into how differential pairs actually work in PCBs, and clears up a bunch of common misconceptions
-- [Phil’s Lab: KiCAD Hardware Design Tutorial](https://youtu.be/O-zNn5k5Bn4) really good video going through how to use KiCAD and also has a bunch of rules of thumb you should know
-- [Altium Academy](https://www.youtube.com/@AltiumAcademy/videos) this channel has a bunch of good general EE videos, just sort by highest views, their short form content is also pretty good
-- [KinoCAD KiCAD tips](https://www.youtube.com/watch?v=rs2peElk62g&list=PLM5C__oTgD3tzhCQGOxPKnR394YoYXHCO) this is a playlist of youtube videos giving some good KiCAD tips that will make a _100x engineer™_ 
-- [EEVblog: Creating a Nice Readable Schematic](https://youtu.be/R_Ud-FxUw0g) this video goes over fixing up a really messy schematic, along the way you'll learn how to create a nice looking schematic
 
 ### Communities
 
@@ -49,12 +43,6 @@ First and foremost, if you are a teenager, make sure you are in the [Hack Club S
 - [r/QMK](https://reddit.com/r/QMK)
 - [r/3DPrinting](https://reddit.com/r/3DPrinting)
 - [r/electronics](https://reddit.com/r/electronics)
-- [r/PrintedCircuitBoard](https://www.reddit.com/r/PrintedCircuitBoard/)
-
-#### Forums:
-
-- [EEVblog Forum](https://www.eevblog.com/forum/index.php)
-- [EE Stack Exchange](https://electronics.stackexchange.com/)
 
 ## Measurements list:
 
