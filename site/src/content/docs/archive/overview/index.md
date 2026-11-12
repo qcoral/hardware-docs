@@ -6,10 +6,8 @@ Hey there!
 
 I'm [alex](https://github.com/qcoral). I've been making hardware projects on and off for the past 10 years.
 
-I think I've amassed a good amount of useful information I wish I knew back in the day. I think it would be useful to document them here.
+Growing up, I found it really hard to find resources on how to make my own hardware projects.
 
-I don't think there is a single good resource on this type of thing.
+This book
 
-Have stuff you think should be added? Let me know!
-
-Let me know if you need any help! This page will be actively updated.
+Reach out if you have any suggestions for what should be added, or if you need any help!

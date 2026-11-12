@@ -1,7 +1,11 @@
 ---
-title: "Project Ideas/Inspo"
+title: "Coming up with an idea"
 draft: true
 ---
+
+Ideating! It's really hard.
+
+Start with a personal sketch.,
 
 Here's some inspo for your next project! Please do not copy them.
 

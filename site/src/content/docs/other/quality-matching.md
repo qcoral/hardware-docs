@@ -19,7 +19,7 @@ _exaggeration, somewhat_
 
 Notice the mismatch? Even if this project would technically work, and you put all these upscale parts together, it still wouldn't actually meet the quality bar you're aiming for. It becomes a waste of parts that goes towards a subpar design.
 
-The solution of this of course, is to polish your project! Add filets, chamfers, cutouts, etc. Make your project have depth! Ask for feedback! The page on [polish](other/returns/#lack-of-polish) has an example of what you might do!
+The solution of this of course, is to polish your project! Add filets, chamfers, cutouts, etc. Make your project have depth! Ask for feedback! The page on [polish](/other/returns/#lack-of-polish) has an example of what you might do!
 
 Then, you'll end up with an amazing project that can actually get the full potential of the nice parts you got!
 

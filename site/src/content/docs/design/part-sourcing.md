@@ -1,5 +1,6 @@
 ---
 title: "Sourcing parts"
+draft: false
 ---
 
 Welcome to part sourcing! Here's a ton of tips for you to optimize your part selection & costs!

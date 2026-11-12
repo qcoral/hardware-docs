@@ -1,0 +1,19 @@
+---
+import type { Props } from "@astrojs/starlight/props";
+import StarlightHead from "@astrojs/starlight/components/Head.astro";
+import { ClientRouter } from "astro:transitions";
+---
+
+<StarlightHead {...Astro.props}><slot /></StarlightHead>
+<ClientRouter />
+<script is:inline>
+    if (!("starlight-theme" in localStorage)) {
+        document.documentElement.dataset.theme = "dark";
+    }
+</script>
+<style is:global>
+    ::view-transition-old(root),
+    ::view-transition-new(root) {
+        animation-duration: 0s;
+    }
+</style>

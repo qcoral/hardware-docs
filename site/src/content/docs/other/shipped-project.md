@@ -1,5 +1,6 @@
 ---
 title: "Shipped project examples!"
+draft: true
 ---
 
 In no particular order!

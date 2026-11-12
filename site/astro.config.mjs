@@ -1,5 +1,5 @@
-// @ts-check
 import { defineConfig } from "astro/config";
+import { unified } from "@astrojs/markdown-remark";
 import starlight from "@astrojs/starlight";
 import tailwindcss from "@tailwindcss/vite";
 import rehypeExternalLinks from "rehype-external-links";
@@ -11,15 +11,17 @@ export default defineConfig({
         "/shipping/example-journal/": "/journaling/example-journal/",
     },
     markdown: {
-        rehypePlugins: [
-            [
-                rehypeExternalLinks,
-                {
-                    target: "_blank",
-                    rel: ["nofollow", "noopener", "noreferrer"],
-                },
+        processor: unified({
+            rehypePlugins: [
+                [
+                    rehypeExternalLinks,
+                    {
+                        target: "_blank",
+                        rel: ["nofollow", "noopener", "noreferrer"],
+                    },
+                ],
             ],
-        ],
+        }),
     },
     integrations: [
         starlight({
@@ -52,47 +54,49 @@ export default defineConfig({
                 },
                 {
                     label: "Design resources",
-                    autogenerate: { directory: "design" },
+                    items: [{ autogenerate: { directory: "design" } }],
                 },
                 {
                     label: "Journaling",
-                    autogenerate: { directory: "journaling" },
+                    items: [{ autogenerate: { directory: "journaling" } }],
                 },
                 {
                     label: "Assembly/Building",
-                    autogenerate: { directory: "building" },
+                    items: [{ autogenerate: { directory: "building" } }],
                 },
                 {
                     label: "Shipping",
-                    autogenerate: { directory: "shipping" },
+                    items: [{ autogenerate: { directory: "shipping" } }],
                 },
                 {
                     label: "Other",
-                    autogenerate: { directory: "other" },
+                    items: [{ autogenerate: { directory: "other" } }],
                 },
                 {
                     label: "Contributed Guides",
-                    // badge: { text: "Untested", variant: "caution" },
                     collapsed: true,
-                    // Each item here is one entry in the navigation menu.
-                    autogenerate: { directory: "user-contrib-guides" },
+                    items: [{ autogenerate: { directory: "user-contrib-guides" } }],
                 },
                 {
                     label: "Project Blogs",
-                    // badge: { text: "Live", variant: "note" },
-                    // collapsed: true,
-                    // Each item here is one entry in the navigation menu.
-                    autogenerate: { directory: "project-blogs" },
+                    items: [{ autogenerate: { directory: "project-blogs" } }],
                 },
                 {
                     label: "Program Archives",
                     badge: { text: "Legacy", variant: "caution" },
                     collapsed: true,
-                    // Each item here is one entry in the navigation menu.
-                    autogenerate: { directory: "archive/highway" },
+                    items: [{ autogenerate: { directory: "archive/highway" } }],
                 },
             ],
-            customCss: ["./src/styles/global.css"],
+            routeMiddleware: "./src/routeData.ts",
+            components: {
+                Head: "./src/components/Head.astro",
+            },
+            customCss: [
+                "@fontsource/dm-sans/400.css",
+                "@fontsource/dm-sans/600.css",
+                "./src/styles/global.css",
+            ],
             favicon: "/icon-green-wood.png",
             head: [
                 {

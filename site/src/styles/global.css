@@ -4,34 +4,35 @@
 @import "tailwindcss/theme.css" layer(theme);
 @import "tailwindcss/utilities.css" layer(utilities);
 
-/* Dark mode colors. */
+/* Flexoki Dark */
 :root {
-    --sl-color-accent-low: #002c1c;
-    --sl-color-accent: #007d57;
-    --sl-color-accent-high: #9cd8bb;
-    --sl-color-white: #ffffff;
-    --sl-color-gray-1: #eeeeed;
-    --sl-color-gray-2: #c8c8c8;
-    --sl-color-gray-3: #a4a4a4;
-    --sl-color-gray-4: #585858;
-    --sl-color-gray-5: #383838;
-    --sl-color-gray-6: #272727;
-    --sl-color-black: #181818;
+    --sl-font: "DM Sans", sans-serif;
+    --sl-color-accent-low: #1A1E0C;
+    --sl-color-accent: #879A39;
+    --sl-color-accent-high: #BEC97E;
+    --sl-color-white: #CECDC3;
+    --sl-color-gray-1: #B7B5AC;
+    --sl-color-gray-2: #878580;
+    --sl-color-gray-3: #6F6E69;
+    --sl-color-gray-4: #575653;
+    --sl-color-gray-5: #343331;
+    --sl-color-gray-6: #282726;
+    --sl-color-black: #1C1B1A;
 }
-/* Light mode colors. */
+/* Flexoki Light */
 :root[data-theme="light"] {
-    --sl-color-accent-low: #b6e3cc;
-    --sl-color-accent: #00563a;
-    --sl-color-accent-high: #003d28;
-    --sl-color-white: #181818;
-    --sl-color-gray-1: #272727;
-    --sl-color-gray-2: #383838;
-    --sl-color-gray-3: #585858;
-    --sl-color-gray-4: #8c8b8b;
-    --sl-color-gray-5: #c2c2c2;
-    --sl-color-gray-6: #eeeeed;
-    --sl-color-gray-7: #f6f6f6;
-    --sl-color-black: #ffffff;
+    --sl-color-accent-low: #EDEECF;
+    --sl-color-accent: #66800B;
+    --sl-color-accent-high: #3D4C07;
+    --sl-color-white: #100F0F;
+    --sl-color-gray-1: #282726;
+    --sl-color-gray-2: #575653;
+    --sl-color-gray-3: #878580;
+    --sl-color-gray-4: #B7B5AC;
+    --sl-color-gray-5: #DAD8CE;
+    --sl-color-gray-6: #E6E4D9;
+    --sl-color-gray-7: #F2F0E5;
+    --sl-color-black: #FFFCF0;
 }
 
 @theme {
@@ -46,10 +47,18 @@ Add additional Tailwind styles to this file:
 https://tailwindcss.com/docs/adding-custom-styles#using-custom-css
 */
 
+.site-title img {
+    height: 2.5rem;
+}
+
 .sl-markdown-content hr {
     @apply [border-width:3px] -my-4 my-10;
 }
 
 .sl-markdown-content a {
     @apply font-bold no-underline;
+}
+
+.sl-markdown-content img {
+    @apply rounded-lg;
 }
