@@ -16,6 +16,14 @@ It's an international VISA card, so make sure your vendor accepts international 
 
 _for those curious: internally we use stripe as a provider!_
 
+## Usage
+
+![image](https://cdn.hackclub.com/01a1d102-f6fa-7b46-907f-f45c0c7ba0f5/paste-1794507994258.png)
+
+**To use it**, punch in the details you get when you open the card! Make sure to use the billing address displayed on the card, not your own. It may not match the image above!
+
+After making a purchase, **you MUST upload your rceipts on HCB!** This ensures we can keep our nonprofit status.
+
 **Do not:**
 
 - Use the card to enable free trials. This will get us banned from Stripe and make us lose our ability to send out grants in the future!
