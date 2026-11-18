@@ -22,7 +22,7 @@ _for those curious: internally we use stripe as a provider!_
 
 **To use it**, punch in the details you get when you open the card! Make sure to use the billing address displayed on the card, not your own. It may not match the image above!
 
-After making a purchase, **you MUST upload your rceipts on HCB!** This ensures we can keep our nonprofit status.
+After making a purchase, **you MUST upload your receipts on HCB!** This ensures we can keep our nonprofit status.
 
 **Do not:**
 
